@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+}
+
+h1 {
+    color: #ccc;
+    background-color: darkblue;
+    text-align: center;
+}
+
+.p1 {
+    text-align: center;
+}
+
+h2 {
+    background-color: #ccc;
+    border-bottom: solid darkblue;
+    padding-left: 20px;
+}
+
+.p2 {
+    width: 90%;
+    margin: auto;
+}
+
+ul {
+    list-style-type: square;
+}
